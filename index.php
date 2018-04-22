@@ -28,10 +28,10 @@
 			</nav>
 		</div>
 		<ul class="sidenav" id="mobile-demo">
-			<li><a href="#exercice1"><i class="small material-icons left">looks_one</i>Exercice 1</a></li>
-			<li><a href="#exercice2"><i class="small material-icons left">looks_two</i>Exercice 2</a></li>
-			<li><a href="#exercice3"><i class="small material-icons left">looks_3</i>Exercice 3</a></li>
-			<li><a href="#exercice4"><i class="small material-icons left">looks_4</i>Exercice 4</a></li>
+			<li><a href="#exercice1" class="sidenav-close"><i class="small material-icons left">looks_one</i>Exercice 1</a></li>
+			<li><a href="#exercice2" class="sidenav-close"><i class="small material-icons left">looks_two</i>Exercice 2</a></li>
+			<li><a href="#exercice3" class="sidenav-close"><i class="small material-icons left">looks_3</i>Exercice 3</a></li>
+			<li><a href="#exercice4" class="sidenav-close"><i class="small material-icons left">looks_4</i>Exercice 4</a></li>
 			<li><a href="#" class="sidenav-close">Fermer</a></li>
 		</ul>
 	</header>
